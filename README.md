@@ -5,5 +5,6 @@ This is a simple console-based implementation of the classic Rock, Paper, Scisso
 
 # Technologies Used
 Python
+
 Clone the repository and run the Python script to play the game.
 rock_paper_scissors.py
